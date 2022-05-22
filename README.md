@@ -1,5 +1,6 @@
-# VideoAPICapturing
->🔦 This API acts as an interface; It has been used to link an application in Swift with a ML pipline in Python with a hand of PHP Laravel
+# Capturing Video Meditator  
+>🔦 This API acts as an interface to link Swift[SwiftUI] application with any other programming language
+>🔦 It has been used to link an application in Swift with a ML pipline in Python with a hand of PHP Laravel
 
 <h1 align="center"> An example will be illustrated below that used this API as a hand b/w multible languages (Swift [SwiftUI], Python, and PHP Laravel)</h>
 
