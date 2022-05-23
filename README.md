@@ -1,4 +1,4 @@
-<h1 align="center"> Capturing Video Meditator  </h1>
+<h1 align="center"> 📽 Capturing Video Meditator  </h1>
 
 >🔦 This API acts as an interface to link Swift[SwiftUI] application with any other programming language
 
