@@ -84,7 +84,7 @@ struct root: View {
             window?.rootViewController?.present(vc, animated: true)
         }
     func uploadToServer(videoUrl:URL){
-        guard let url = URL.init(string: "http://165.232.90.241/api/store_video") else{
+        guard let url = URL.init(string: "Your store_video in ur API here") else{
             return
         }
         do {
@@ -127,7 +127,7 @@ struct root: View {
         }
     }
     func getMessage(id:Int){
-        guard let url = URL.init(string: "http://165.232.90.241/api/get_video_result") else{
+        guard let url = URL.init(string: "Your get_video in ur API here ") else{
             return
         }
         let paramets:Parameters = ["id":id]
@@ -243,7 +243,7 @@ struct LoadingView<Content>: View where Content: View {
                     .blur(radius: self.isShowing ? 3 : 0)
 
                 VStack {
-                    Text("Uploading...")
+                    Text("جاري الترجمة ...")
                     ActivityIndicator(isAnimating: .constant(true), style: .large)
                 }
                 .frame(width: geometry.size.width / 2,
