@@ -14,3 +14,6 @@
  <p> <i> Table 1️⃣ </i> below exhibts platforms/frameworks which have been used with this API to combine multible programming languages.</p>
  
   <p> <i> Figure 1️⃣ </i> below exhibts the architecture </p>
+<img width="1434" alt="Screen Shot 1443-10-26 at 4 28 59 PM" src="https://user-images.githubusercontent.com/59771760/170708896-fcac1274-565f-4172-93ad-0c31b105a86b.png">
+
+
