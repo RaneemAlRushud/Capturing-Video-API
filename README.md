@@ -15,7 +15,7 @@
  
 <p align="center">  <img width="435" alt="image" src="https://user-images.githubusercontent.com/59771760/170836350-b9e564e5-e531-423d-8bf8-3f368f8875ee.png"> </p>
 
-
+<br>
  
   <p> <i> <b> Figure 1️⃣ </b> </i> below exhibts the architecture </p>
 <img width="1434" alt="Screen Shot 1443-10-26 at 4 28 59 PM" src="https://user-images.githubusercontent.com/59771760/170708896-fcac1274-565f-4172-93ad-0c31b105a86b.png">
