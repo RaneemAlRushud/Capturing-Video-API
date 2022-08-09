@@ -8,7 +8,7 @@
 <br>
 
 
-<h3> 📌 An example will be illustrated below that used this API as a hand b/w multible languages (Swift [SwiftUI], Python, and PHP Laravel) </h3>
+<h3> 📌 An example will be illustrated below which used this API as a hand b/w multible languages (Swift [SwiftUI], Python, and PHP [Laravel]) </h3>
 
 
 <h2> Used platforms/Frameworks:</h2>
