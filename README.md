@@ -21,7 +21,7 @@
 <br>
 <br>
  
-  <p> <i> <b> Figure 1️⃣ </b> </i> below exhibts the architecture </p>
+  <p> <i> <b> Figure 1️⃣ </b> </i> below exhibts the communicating process </p>
 <img width="1434" alt="Screen Shot 1443-10-26 at 4 28 59 PM" src="https://user-images.githubusercontent.com/59771760/170708896-fcac1274-565f-4172-93ad-0c31b105a86b.png">
 
 
