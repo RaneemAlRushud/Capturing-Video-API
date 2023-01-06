@@ -4,11 +4,10 @@
 
 >🔦 It has been used to link an application in Swift with a ML pipeline in Python with a hand of PHP Laravel
 
+>🔦 An example will be illustrated below which used this API as a hand b/w multible languages ( Swift [SwiftUI], Python, and PHP [Laravel] ) 
 
 <br>
 
-
-<h3> 📌 An example will be illustrated below which used this API as a hand b/w multible languages ( Swift [SwiftUI], Python, and PHP [Laravel] ) </h3>
 
 
 <h2> Used platforms/Frameworks:</h2>
